@@ -15,20 +15,14 @@ function solution(lottos, win_nums) {
   var maxR = 0
   if (chk >= 2) {
     minR = 7 - chk
-  }
-  else {
+  } else {
     minR = 6
   }
   if (chk+zero >= 2) {
     maxR = 7 - (chk + zero)
-  }
-  else {
+  } else {
     maxR = 6
   }
   var answer = [maxR, minR]
   return answer;
 }
-
-lottos = [0, 0, 0, 0, 0, 0]
-win_nums = [38, 19, 20, 40, 15, 25]
-console.log(solution(lottos, win_nums))
