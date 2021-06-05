@@ -17,7 +17,7 @@
 
 
 
-### K번째수
+### K번째수.js
 
 - JavaScript에서 `sort()`는 문자열 기준으로 정렬!
 
@@ -26,4 +26,30 @@
   ```javascript
   List.sort((a, b) => a-b)
   ```
+
+
+
+### 폰켓몬.js
+
+- python에서의 `in`과 JavaScript에서의 `includes`는 비슷한 기능!!
+
+  ```javascript
+  if (!mon.includes(x)) {
+        mon.push(x)
+      }
+  ```
+
+
+
+### 소수 만들기.py
+
+- 조합, 순열 등 `itertools`이용하여 쉽게 사용하자!!
+
+  ```python
+  from itertools import combination
+  ```
+
+  
+
+
 
