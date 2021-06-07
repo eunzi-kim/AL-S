@@ -1,4 +1,4 @@
-# 💡 21.06.02
+# 💡 Level 1
 
 ### 모의고사.js
 
@@ -49,7 +49,33 @@
   from itertools import combination
   ```
 
-  
 
 
 
+### 신규 아이디 추천.js
+
+- 배열의 마지막 인덱스를 arr[-1]로 알 수 없음 
+
+   👉 마지막 인덱스 구해야함!
+
+   ```javascript
+   arr[arr.length-1]
+   ```
+
+- 배열 탐색할 때, indexOf 이용!
+
+   ```javascript
+   arr.indexOf(x) != -1 // arr에 들어있는 x만 추출
+   ```
+
+- slice로 배열, 문자열 자를 수 있음
+
+   ```javascript
+   lst_a = lst_a.slice(0, 15)
+   ```
+
+- 배열 => 문자열 변환 : `arr.join(구분자)`
+
+   ```javascript
+   answer = lst_a.join('')
+   ```
