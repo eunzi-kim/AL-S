@@ -5,7 +5,7 @@
 -> 질문 작성
 ```
 
-## 0609키패드
+## 0608키패드
 
 ### 키패드.py
 
@@ -20,6 +20,55 @@ https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/in
 
 =>include를 사용
 ```
+
+
+
+## 0609실패율
+
+### 실패율.py
+
+- 1, 6, 7, 9, 23, 24, 25 => 런타임 에러..
+
+```
+다중 sort 때문에 개고생 많이 함 ..
+
+직접 다중 sort 시도 ... => 실패...
+
+now_tal = pre[0][0]
+same_tal_stage = []
+for i in pre:
+    if now_tal != i[0]:
+        same_tal_stage.sort()
+        answer.extend(same_tal_stage)
+        same_tal_stage = []
+
+        now_tal = i[0]
+        same_tal_stage.append(i[1])
+    else:
+        same_tal_stage.append(i[1])
+same_tal_stage.sort()
+answer.extend(same_tal_stage)
+```
+
+```
+다중 sort (직접 지정해주는 방법)
+https://ooyoung.tistory.com/59
+
+```
+
+```
+딕셔너리 sort
+
+대부분의 정답들이 이걸 사용
+```
+
+![스크린샷 2021-06-09 20.12.25](/Users/leetaesung/Desktop/git/AL-S/AL-S/태성/static/스크린샷 2021-06-09 20.12.25.png)
+
+=>버전에 따라 달라지는 활용..
+
+
+
+=> 현재 교수님과 프로그래머스 질문하기에 올렸는데 존나 시발 아니 ㅈ같은게 틀린 이유나 답을 찾는 방법이 전무.. 아니 무슨 해답지가 없는 느낌 ... 개같다 진짜 
 
 
 
