@@ -41,4 +41,5 @@
 | 6/4 (금)  |   음양 더하기, 폰켓몬, 소수 만들기    | Python, JavaScript |
 | 6/7 (월)  |           신규 아이디 추천            | Python, JavaScript |
 | 6/8 (화)  |             키패드 누르기             | Python, JavaScript |
-
+| 6/9 (수)  |                실패율                 | Python, JavaScript |
+| 6/10 (목) |             3진법 뒤집기              | Python, JavaScript |
