@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08621b95-4d8b-47af-8a89-c66f5c6895dd" name="Default Changelist" comment="" />
+    <list default="true" id="08621b95-4d8b-47af-8a89-c66f5c6895dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3진법 뒤집기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,40 +49,49 @@
     <session id="-365106929">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1712" />
+          <entry key="dummy" value="5" />
+          <entry key="py" value="3143" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1712" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="3143" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/키패드 누르기.py">
+        <entry file="file://$PROJECT_DIR$/3진법 뒤집기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="39" selection-end-column="17" />
+            <state relative-caret-position="152">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <marker date="1623329511792" expanded="true" signature="92:94" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,13 +118,16 @@
         <option value="$PROJECT_DIR$/소수 만들기.py" />
         <option value="$PROJECT_DIR$/신규 아이디 추천.py" />
         <option value="$PROJECT_DIR$/키패드 누르기.py" />
+        <option value="$PROJECT_DIR$/실패율.py" />
+        <option value="$PROJECT_DIR$/3진법 만들기.py" />
+        <option value="$PROJECT_DIR$/3진법 뒤집기.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="473" />
-    <option name="y" value="18" />
-    <option name="width" value="822" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="391" />
+    <option name="y" value="8" />
+    <option name="width" value="952" />
     <option name="height" value="739" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -120,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,7 +148,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.키패드 누르기">
+  <component name="RunManager" selected="Python.3진법 뒤집기">
     <configuration name="로또의 최고 순위와 최저 순위" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="은지" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="K번째수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="실패율" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="은지" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,7 +284,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K번째수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/실패율.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3진법 뒤집기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="은지" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3진법 뒤집기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,19 +315,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.K번째수" />
       <item itemvalue="Python.로또의 최고 순위와 최저 순위" />
       <item itemvalue="Python.음양 더하기" />
       <item itemvalue="Python.신규 아이디 추천" />
-      <item itemvalue="Python.키패드 누르기" />
+      <item itemvalue="Python.실패율" />
+      <item itemvalue="Python.3진법 뒤집기" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.키패드 누르기" />
+        <item itemvalue="Python.3진법 뒤집기" />
+        <item itemvalue="Python.실패율" />
         <item itemvalue="Python.신규 아이디 추천" />
         <item itemvalue="Python.음양 더하기" />
         <item itemvalue="Python.로또의 최고 순위와 최저 순위" />
-        <item itemvalue="Python.K번째수" />
       </list>
     </recent_temporary>
   </component>
@@ -308,15 +345,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="391" y="8" width="952" height="739" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49668875" visible="true" weight="0.11532738" />
-      <window_info id="Structure" order="1" sideWeight="0.5024793" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.19146608" />
+      <window_info id="Structure" order="1" sideWeight="0.5048544" side_tool="true" weight="0.11532738" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32676518" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30298012" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -379,6 +416,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/실패율.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3진법 뒤집기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1623329511792" expanded="true" signature="92:94" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
