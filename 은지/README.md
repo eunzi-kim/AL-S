@@ -99,3 +99,20 @@
   👉 `stages`에 들어있는 `n+1`의 개수를 구할 수 있음
 
 #### ⭐ 다음에 실패율 다시 한 번 풀어보기‼
+
+
+
+### 3진법 뒤집기.js
+
+- JavaScript에서 몫을 구할 때, `parseInt`이용!
+
+  ```javascript
+  paresInt(x/3) // x를 3으로 나눈 몫
+  ```
+
+- 10진법 -> 3진법 : 간단하게 `toString()`함수 이용!
+
+  ```javascript
+  n.toString(3) // n을 3진법으로 변경(문자열)
+  ```
+
