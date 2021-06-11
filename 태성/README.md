@@ -83,9 +83,18 @@ def solution(n):
 ```
 => int에 10진법으로 만들어주는 기능이 있다니...!!!!!!!! 놀랍도다 파이떤!!!!!!!
 
+### 06103진법뒤집기
+combination은 중복 for문으로 가능
+js는 제로초님 블로그가 최고인듯 앞으로도 자주 참고
+```
+https://www.zerocho.com/category/JavaScript/post/5acafb05f24445001b8d796d
+```
+은지를 통해 알게 된 includes
+그리고 reduce 함수를 공부하게 되어 좋았음
+준영님을 통해 permutation 체크해서 다행..!
 
 ### 빈번 실수
 
 js에서 for문에 let 안넣음 ;;
 
-거의 지금 세번째 실수 
+거의 지금 네번째 실수 
