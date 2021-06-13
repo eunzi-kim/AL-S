@@ -12,7 +12,7 @@
 ### 🐸 태성
 
 - github 주소 : https://github.com/2taesung
-
+- 블로그 주소 : https://velog.io/@2taesung
 
 
 ### 🐰 준영
