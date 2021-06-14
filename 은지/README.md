@@ -116,3 +116,18 @@
   n.toString(3) // n을 3진법으로 변경(문자열)
   ```
 
+
+
+### 비밀지도.js
+
+- 배열 초기화
+
+  ```javascript
+  // ex) n*m 배열 arr
+  var arr = new Array(n)
+  for (let i=0; i<m; i++) {
+      arr[i] = new Array(n)
+  }
+  ```
+
+  
