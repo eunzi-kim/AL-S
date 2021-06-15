@@ -130,4 +130,15 @@
   }
   ```
 
-  
+
+
+
+### 다트 게임.js
+
+- 배열의 합
+
+  ```javascript
+  const sum = array.reduce((a, b) => a+b, 0)
+  ```
+
+  👉 `Python`에서, `sum(array)`와 동일!!
