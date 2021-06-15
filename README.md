@@ -45,3 +45,4 @@
 | 6/10 (목) |                 3진법 뒤집기                 | Python, JavaScript |
 | 6/11(금)  | 예산, 약수의 개수와 덧셈, 두개 뽑아서 더하기 | Python, JavaScript |
 | 6/14 (월) |               2016년, 비밀지도               | Python, JavaScript |
+| 6/15 (화) |       가운데 글자 가져오기, 다트 게임        | Python, JavaScript |
