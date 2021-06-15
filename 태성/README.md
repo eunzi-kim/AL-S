@@ -135,7 +135,35 @@ https://www.zerocho.com/category/JavaScript/post/5acafb05f24445001b8d796d
 그리고 reduce 함수를 공부하게 되어 좋았음
 준영님을 통해 permutation 체크해서 다행..!
 
+## 0614 2016년 -> 복습요망
 
+
+
+## 06104비밀지도
+
+### 비밀지도.py 
+
+배열 뒤집기 세가지 방법
+
+```
+a = [1, 2, 3]
+b = list(reversed(a))
+
+print(b)
+
+c = [1, 2, 3]
+
+c.reverse()
+
+print(c)
+
+d = [1, 2, 3]
+e = d[::-1]
+
+print(e)
+```
+
+https://www.youtube.com/watch?v=sGhY8dQdu4A
 
 ##빈번 실수
 
