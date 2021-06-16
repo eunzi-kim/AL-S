@@ -5,7 +5,6 @@
       <change afterPath="$PROJECT_DIR$/같은 숫자는 싫어.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/나누어 떨어지는 숫자 배열.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/두 정수 사이의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/문자열 내 마음대로 정렬하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,13 +78,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="py" value="6585" />
+          <entry key="py" value="6705" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="6585" />
+          <entry key="Python" value="6705" />
         </counts>
       </usages-collector>
     </session>
@@ -122,8 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/문자열 내 마음대로 정렬하기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="171">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -167,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="309" />
     <option name="y" value="46" />
     <option name="width" value="952" />
@@ -369,15 +368,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="309" y="46" width="952" height="739" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.19146608" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.13020833" />
       <window_info id="Structure" order="1" sideWeight="0.5048544" side_tool="true" weight="0.11532738" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30298012" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3004926" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,8 +529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/문자열 내 마음대로 정렬하기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="171">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
