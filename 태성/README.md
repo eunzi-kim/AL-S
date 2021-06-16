@@ -167,6 +167,12 @@ https://www.youtube.com/watch?v=sGhY8dQdu4A
 
 ##빈번 실수
 
-js에서 for문에 let 안넣음 ;;
+- js에서 for문에 let 안넣음 ;;
 
-거의 지금 네번째 실수 
+=> 거의 지금 다섯번째 실수 
+
+
+
+- python3와 js 사이의 다른 문법들 
+
+  => in vs include
