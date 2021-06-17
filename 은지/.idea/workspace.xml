@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08621b95-4d8b-47af-8a89-c66f5c6895dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/같은 숫자는 싫어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/나누어 떨어지는 숫자 배열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/두 정수 사이의 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자열 내 p와 y의 개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자열 내림차순으로 배치하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자열 다루기 기본.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/서울에서 김서방 찾기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,10 +51,10 @@
     <session id="-365106929">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -61,73 +62,37 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="15" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="py" value="6705" />
+          <entry key="py" value="7352" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="6705" />
+          <entry key="Python" value="7352" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/같은 숫자는 싫어.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/나누어 떨어지는 숫자 배열.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/두 정수 사이의 합.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/문자열 내 마음대로 정렬하기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -163,12 +128,16 @@
         <option value="$PROJECT_DIR$/나누어 떨어지는 숫자 배열.py" />
         <option value="$PROJECT_DIR$/두 정수 사이의 합.py" />
         <option value="$PROJECT_DIR$/문자열 내 마음대로 정렬하기.py" />
+        <option value="$PROJECT_DIR$/문자열 내 p와 y의 개수.py" />
+        <option value="$PROJECT_DIR$/문자열 내림차순으로 배치하기.py" />
+        <option value="$PROJECT_DIR$/문자열 다루기 기본.py" />
+        <option value="$PROJECT_DIR$/서울에서 김서방 찾기.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="309" />
-    <option name="y" value="46" />
+    <option name="x" value="-64" />
+    <option name="y" value="-9" />
     <option name="width" value="952" />
     <option name="height" value="739" />
   </component>
@@ -180,6 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,7 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.문자열 내 마음대로 정렬하기">
+  <component name="RunManager" selected="Python.서울에서 김서방 찾기">
     <configuration name="두 정수 사이의 합" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="은지" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="가운데 글자 가져오기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="문자열 다루기 기본" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="은지" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,7 +234,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/가운데 글자 가져오기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열 다루기 기본.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="문자열 내림차순으로 배치하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="은지" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열 내림차순으로 배치하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="서울에서 김서방 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="은지" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/서울에서 김서방 찾기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="다트 게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="문자열 내 p와 y의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="은지" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,28 +318,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다트 게임.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="예산" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="은지" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/예산.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열 내 p와 y의 개수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +328,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.가운데 글자 가져오기" />
-      <item itemvalue="Python.다트 게임" />
-      <item itemvalue="Python.같은 숫자는 싫어" />
       <item itemvalue="Python.두 정수 사이의 합" />
-      <item itemvalue="Python.문자열 내 마음대로 정렬하기" />
+      <item itemvalue="Python.문자열 내 p와 y의 개수" />
+      <item itemvalue="Python.문자열 내림차순으로 배치하기" />
+      <item itemvalue="Python.문자열 다루기 기본" />
+      <item itemvalue="Python.서울에서 김서방 찾기" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.문자열 내 마음대로 정렬하기" />
+        <item itemvalue="Python.서울에서 김서방 찾기" />
+        <item itemvalue="Python.문자열 다루기 기본" />
+        <item itemvalue="Python.문자열 내림차순으로 배치하기" />
+        <item itemvalue="Python.문자열 내 p와 y의 개수" />
         <item itemvalue="Python.두 정수 사이의 합" />
-        <item itemvalue="Python.같은 숫자는 싫어" />
-        <item itemvalue="Python.다트 게임" />
-        <item itemvalue="Python.가운데 글자 가져오기" />
       </list>
     </recent_temporary>
   </component>
@@ -369,14 +359,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.13020833" />
       <window_info id="Structure" order="1" sideWeight="0.5048544" side_tool="true" weight="0.11532738" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3004926" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29720855" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -523,14 +512,42 @@
     <entry file="file://$PROJECT_DIR$/두 정수 사이의 합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/문자열 내 마음대로 정렬하기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="133">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/문자열 내 p와 y의 개수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/문자열 내림차순으로 배치하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/문자열 다루기 기본.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/서울에서 김서방 찾기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
