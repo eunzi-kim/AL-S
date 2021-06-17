@@ -15,6 +15,8 @@
 - 블로그 주소 : https://velog.io/@2taesung
 
 
+
+
 ### 🐰 준영
 
 - github 주소 : https://github.com/wnsdud4197
@@ -47,3 +49,4 @@
 | 6/14 (월) |                       2016년, 비밀지도                       | Python, JavaScript |
 | 6/15 (화) |               가운데 글자 가져오기, 다트 게임                | Python, JavaScript |
 | 6/16 (수) | 같은 숫자는 싫어, 나누어 떨어지는 숫자 배열, 두 정수 사이의 합, 문자열 내 마음대로 정렬하기 | Python, JavaScript |
+| 6/17 (목) | 문자열 내 p와 y의 개수, 문자열 내림차순으로 배치하기, 문자열 다루기 기본, 서울에서 김서방 찾기 | Python, JavaScript |
