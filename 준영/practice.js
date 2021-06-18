@@ -1,11 +1,14 @@
-arr = [1, 2, 3]
+function solution(s){
+  var answer = true;
 
-const new_set = new Set(arr)
+  var ss = s.toLowerCase()
+  ss = Array(ss)
+  console.log(ss)
+  
+  var arr = ss.filter(e => 'p'===e)
+  
+  console.log(arr)
+  return answer;
+}
 
-console.log(new_set)
-
-const new_arr = new Array(new_set)
-const new_arr2 = new Array(...new_set)
-
-console.log(new_arr)
-console.log(new_arr2)
+solution('ppYY')
