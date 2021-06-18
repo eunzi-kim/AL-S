@@ -11,7 +11,7 @@ def solution(s, n):
         # 2. 소문자
         elif 97 <= ord(x) <= 122 and ord(x) + n > 122:
             answer += chr(ord(x) + n - 26)
-        # 돌아갈 필요 없는 경우
+        # 돌아갈 필요없는 경우
         else:
             answer += chr(ord(x) + n)
     return answer
