@@ -2,6 +2,8 @@
 
 - 0609실패율
 - 0616 swea list2 색칠하기, 특별한정렬(예전풀이)
+- 0617 소수찾기 
+- 0618 시저암호.js ;;;; 왜 틀리는지 모르겠음 ;;;;
 
 
 
@@ -176,3 +178,11 @@ https://www.youtube.com/watch?v=sGhY8dQdu4A
 - python3와 js 사이의 다른 문법들 
 
   => in vs include
+  
+  => sort() 문자열, 숫자
+  
+  ```
+  https://dudmy.net/javascript/2015/11/16/javascript-sort/
+  ```
+  
+  
