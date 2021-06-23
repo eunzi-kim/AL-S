@@ -3,7 +3,10 @@
 ## 📌 1차 목표
 
 - 프로그래머스 Python3 & JavaScript 문제 풀기
-  - https://programmers.co.kr/learn/challenges?tab=all_challenges
+
+  https://programmers.co.kr/learn/challenges?tab=all_challenges
+
+  - 2021.06.23 (수) : 프로그래머스 Level1 완료 ✔
 
 
 
@@ -53,3 +56,4 @@
 | 6/18 (금) | 소수 찾기, 수박수박수박수박수박수?, 문자열을 정수로 바꾸기, 시저 암호 | Python, JavaScript |
 | 6/21 (월) | 약수의 합, 이상한 문자 만들기, 자릿수 더하기, 자연수 뒤집어 배열로 만들기, 정수 내림차순으로 배치하기 | Python, JavaScript |
 | 6/22 (화) | 정수 제곱근 판별, 제일 작은 수 제거하기, 짝수와 홀수, 최대공약수와 최소공배수, 콜라츠 추측 | Python, JavaScript |
+| 6/23 (수) | 평균 구하기, 하샤드 수, 핸드폰 번호 가리기, 행렬의 덧셈, x만큼 간격이 있는 n개의 숫자, 직사각형 별찍기 | Python, JavaScript |
