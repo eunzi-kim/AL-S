@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08621b95-4d8b-47af-8a89-c66f5c6895dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/정수 제곱근 판별.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="08621b95-4d8b-47af-8a89-c66f5c6895dd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
     <session id="-365106929">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.12" value="1" />
@@ -60,10 +57,11 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -91,17 +89,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/정수 제곱근 판별.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,8 +143,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="129" />
-    <option name="y" value="44" />
+    <option name="x" value="626" />
+    <option name="y" value="149" />
     <option name="width" value="952" />
     <option name="height" value="722" />
   </component>
@@ -198,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.정수 제곱근 판별">
+  <component name="RunManager" selected="Python.약수의 합">
     <configuration name="자연수 뒤집어 배열로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="은지" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -434,11 +422,9 @@
       <item itemvalue="Python.약수의 합" />
       <item itemvalue="Python.자연수 뒤집어 배열로 만들기" />
       <item itemvalue="Python.정수 내림차순으로 배치하기" />
-      <item itemvalue="Python.정수 제곱근 판별" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.정수 제곱근 판별" />
         <item itemvalue="Python.정수 내림차순으로 배치하기" />
         <item itemvalue="Python.자연수 뒤집어 배열로 만들기" />
         <item itemvalue="Python.약수의 합" />
@@ -459,7 +445,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="129" y="44" width="952" height="722" extended-state="0" />
+    <frame x="626" y="149" width="952" height="722" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.19146608" />
       <window_info id="Structure" order="1" sideWeight="0.5048544" side_tool="true" weight="0.11532738" />
