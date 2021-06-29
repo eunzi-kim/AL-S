@@ -18,7 +18,7 @@ def solution(s):
                 cnt = 1
                 # 마지막 문자열
                 if i >= n-x:
-                    exam +=  pre
+                    exam += pre
             # 과거 문자열과 현재 문자열이 같은 경우
             else:
                 # 마지막 문자열
