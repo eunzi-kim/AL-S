@@ -60,3 +60,4 @@
 | 6/23 (수) | 평균 구하기, 하샤드 수, 핸드폰 번호 가리기, 행렬의 덧셈, x만큼 간격이 있는 n개의 숫자, 직사각형 별찍기 | Python, JavaScript |
 | 6/24 (목) |                124 나라의 숫자, 멀쩡한 사각형                | Python, JavaScript |
 | 6/28 (월) |                    타겟 넘버, 오픈채팅방                     | Python, JavaScript |
+| 6/29 (화) |                 문자열 압축, 짝지어 제거하기                 | Python, JavaScript |
