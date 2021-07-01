@@ -62,3 +62,4 @@
 | 6/28 (월) |                    타겟 넘버, 오픈채팅방                     | Python, JavaScript |
 | 6/29 (화) |                 문자열 압축, 짝지어 제거하기                 | Python, JavaScript |
 | 6/30 (수) |                     기능개발, 괄호 변환                      | Python, JavaScript |
+| 7/1 (월)  |                     행렬 테두리 회전하기                     | Python, JavaScript |
