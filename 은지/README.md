@@ -190,3 +190,15 @@
   ```
 
   👉 `i`를 `x`번 더하는 반복
+
+
+
+### 가장 큰 수.js
+
+- 문자열 반복 함수 `String.repeat(n)`이용
+
+  ```javascript
+  "kleague".repeat(3)  // kleaguekleaguekleague 
+  ```
+
+  
