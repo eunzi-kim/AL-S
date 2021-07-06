@@ -64,3 +64,4 @@
 | 6/30 (수) |                     기능개발, 괄호 변환                      | Python, JavaScript |
 | 7/1 (목)  |                     행렬 테두리 회전하기                     | Python, JavaScript |
 | 7/5 (월)  |                    가장 큰 수, 소수 찾기                     | Python, JavaScript |
+| 7/6 (화)  |                   게임 맵 최단거리, 프린터                   | Python, JavaScript |
