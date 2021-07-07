@@ -7,6 +7,7 @@
 - 0621 Forth 런타임에러(swea), 배열부분최소합(swea) 다시풀기
 - 0623 Q 노드의거리(swea), 최소공배수
 - 0624 124나라, 이진탐색, 이진힙(swea)
+- 0706 bfs js로 여러번 해볼 필요가 있다.
 
 
 
@@ -177,7 +178,7 @@ https://www.youtube.com/watch?v=sGhY8dQdu4A
 - js과 split의 작동 차이 
 - 생각지 못했던 예외:공백이 두개 이상 나올 수 있는 문제
 
-##빈번 실수
+## 빈번 실수
 
 - js에서 for문에 let 안넣음 ;;
 
@@ -195,4 +196,7 @@ https://www.youtube.com/watch?v=sGhY8dQdu4A
   https://dudmy.net/javascript/2015/11/16/javascript-sort/
   ```
   
-  
+
+
+
+- bfs 거리 찾기 할때 r, c , x, y, n, m 들이 서로 헤깔리면서 한참 고생한다;;;;
