@@ -66,3 +66,4 @@
 | 7/5 (월)  |                    가장 큰 수, 소수 찾기                     | Python, JavaScript |
 | 7/6 (화)  |                   게임 맵 최단거리, 프린터                   | Python, JavaScript |
 | 7/7 (수)  |                         메뉴 리뉴얼                          | Python, JavaScript |
+| 7/8 (목)  |                         예상 대진표                          | Python, JavaScript |
