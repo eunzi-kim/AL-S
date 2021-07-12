@@ -67,3 +67,4 @@
 | 7/6 (화)  |                   게임 맵 최단거리, 프린터                   | Python, JavaScript |
 | 7/7 (수)  |                         메뉴 리뉴얼                          | Python, JavaScript |
 | 7/8 (목)  |                         예상 대진표                          | Python, JavaScript |
+| 7/12 (월) |                    [1차] 뉴스 클러스터링                     | Python, JavaScript |
