@@ -201,4 +201,17 @@
   "kleague".repeat(3)  // kleaguekleaguekleague 
   ```
 
+
+
+
+### 뉴스 클러스터링.js
+
+- 대문자로 변경 👉 "string"`.toUpperCase()`
+
+- 문자 확인은 `정규표현식`이용❣
+
+  ```javascript
+  string.match(/[A-Za-z]{2}/) // 길이가 2인 문자열 string 확인
+  ```
+
   
