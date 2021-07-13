@@ -12,7 +12,7 @@
 
 
 
-### 🐸 태성
+### 🐸 태성 공주님
 
 - github 주소 : https://github.com/2taesung
 - 블로그 주소 : https://velog.io/@2taesung
@@ -20,14 +20,14 @@
 
 
 
-### 🦝 준영
+### 🦝 준영 공주님
 
 - github 주소 : https://github.com/wnsdud4197
 - 블로그 주소 :  https://wnsdud4197.github.io/
 
 
 
-### 🐱 은지
+### 🐱 은지 대장님
 
 - github 주소 : https://github.com/eunzi-kim
 - 블로그 주소 : https://xxnxi.tistory.com/
@@ -68,3 +68,4 @@
 | 7/7 (수)  |                         메뉴 리뉴얼                          | Python, JavaScript |
 | 7/8 (목)  |                         예상 대진표                          | Python, JavaScript |
 | 7/12 (월) |                    [1차] 뉴스 클러스터링                     | Python, JavaScript |
+| 7/13 (화) |                 튜플, 가장 큰 정사각형 찾기                  | Python, JavaScript |
