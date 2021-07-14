@@ -69,3 +69,4 @@
 | 7/8 (목)  |                         예상 대진표                          | Python, JavaScript |
 | 7/12 (월) |                    [1차] 뉴스 클러스터링                     | Python, JavaScript |
 | 7/13 (화) |                 튜플, 가장 큰 정사각형 찾기                  | Python, JavaScript |
+| 7/14 (수) |                      거리두기 확인하기                       | Python, JavaScript |
