@@ -72,3 +72,4 @@
 | 7/14 (수) |                      거리두기 확인하기                       | Python, JavaScript |
 | 7/15 (목) |                         수식 최대화                          | Python, JavaScript |
 | 7/16 (금) |                           조이스틱                           | Python, JavaScript |
+| 7/19 (월) |                     숫자 문자열과 영단어                     | Python, JavaScript |
