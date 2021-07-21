@@ -74,3 +74,4 @@
 | 7/16 (금) |                           조이스틱                           | Python, JavaScript |
 | 7/19 (월) |                     숫자 문자열과 영단어                     | Python, JavaScript |
 | 7/20 (화) |                             배달                             | Python, JavaScript |
+| 7/21 (수) |                             위장                             | Python, JavaScript |
