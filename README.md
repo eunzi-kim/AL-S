@@ -75,3 +75,4 @@
 | 7/19 (월) |                     숫자 문자열과 영단어                     | Python, JavaScript |
 | 7/20 (화) |                             배달                             | Python, JavaScript |
 | 7/21 (수) |                             위장                             | Python, JavaScript |
+| 7/22 (목) |                 괄호 회전하기, 큰 수 만들기                  | Python, JavaScript |
