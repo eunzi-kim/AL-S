@@ -76,3 +76,4 @@
 | 7/20 (화) |                             배달                             | Python, JavaScript |
 | 7/21 (수) |                             위장                             | Python, JavaScript |
 | 7/22 (목) |                 괄호 회전하기, 큰 수 만들기                  | Python, JavaScript |
+| 7/23 (금) |                            후보키                            | Python, JavaScript |
