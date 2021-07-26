@@ -77,3 +77,4 @@
 | 7/21 (수) |                             위장                             | Python, JavaScript |
 | 7/22 (목) |                 괄호 회전하기, 큰 수 만들기                  | Python, JavaScript |
 | 7/23 (금) |                            후보키                            | Python, JavaScript |
+| 7/27 (월) |                 H-Index, 다리를 지나는 트럭                  | Python, JavaScript |
