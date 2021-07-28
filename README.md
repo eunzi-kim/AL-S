@@ -79,3 +79,4 @@
 | 7/23 (금) |                            후보키                            | Python, JavaScript |
 | 7/26 (월) |                 H-Index, 다리를 지나는 트럭                  | Python, JavaScript |
 | 7/27 (화) |                     카펫, 영어 끝말잇기                      | Python, JavaScript |
+| 7/28 (수) |                           구명보트                           | Python, JavaScript |
