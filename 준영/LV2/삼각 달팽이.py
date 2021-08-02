@@ -18,7 +18,6 @@ def solution(n):
     direction = 0
     
     while now < total:
-        print(temp)
         direction %= 3
 
         if direction == 0:
@@ -43,7 +42,9 @@ def solution(n):
         move -= 1
         direction += 1
 
-    print(temp)
+    for t in temp:
+        for i in t:
+            answer.append(i)
     return answer
 
 solution(4)
