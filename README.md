@@ -81,3 +81,4 @@
 | 7/27 (화) |                     카펫, 영어 끝말잇기                      | Python, JavaScript |
 | 7/28 (수) |                           구명보트                           | Python, JavaScript |
 | 7/30 (금) |                         삼각 달팽이                          | Python, JavaScript |
+| 8/2 (월)  |                     2개 이하로 다른 비트                     | Python, JavaScript |
