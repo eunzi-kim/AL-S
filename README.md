@@ -83,3 +83,6 @@
 | 7/30 (금) |                         삼각 달팽이                          | Python, JavaScript |
 | 8/2 (월)  |                     2개 이하로 다른 비트                     | Python, JavaScript |
 | 8/3 (화)  |                         프렌즈4블록                          | Python, JavaScript |
+| 8/4 (수)  |                    캐시, 최댓값과 최솟값                     | Python, JavaScript |
+| 8/6 (금)  |             이진 변환 반복하기, 점프와 순간 이동             | Python, JavaScript |
+
