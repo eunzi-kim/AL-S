@@ -85,4 +85,5 @@
 | 8/3 (화)  |                         프렌즈4블록                          | Python, JavaScript |
 | 8/4 (수)  |                    캐시, 최댓값과 최솟값                     | Python, JavaScript |
 | 8/6 (금)  |             이진 변환 반복하기, 점프와 순간 이동             | Python, JavaScript |
+| 8/9 (월)  |                    스킬트리, 올바른 괄호                     | Python, JavaScript |
 
