@@ -87,4 +87,5 @@
 | 8/6 (금)  |             이진 변환 반복하기, 점프와 순간 이동             | Python, JavaScript |
 | 8/9 (월)  |                    스킬트리, 올바른 괄호                     | Python, JavaScript |
 | 8/10 (화) |                    쿼드압축 후 개수 세기                     | Python, JavaScript |
+| 8/11 (수) |                          방문 길이                           | Python, JavaScript |
 
