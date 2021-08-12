@@ -88,4 +88,5 @@
 | 8/9 (월)  |                    스킬트리, 올바른 괄호                     | Python, JavaScript |
 | 8/10 (화) |                    쿼드압축 후 개수 세기                     | Python, JavaScript |
 | 8/11 (수) |                          방문 길이                           | Python, JavaScript |
+| 8/12 (목) |                           방금그곡                           | Python, JavaScript |
 
