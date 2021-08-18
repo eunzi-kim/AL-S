@@ -90,4 +90,6 @@
 | 8/11 (수) |                          방문 길이                           | Python, JavaScript |
 | 8/12 (목) |                           방금그곡                           | Python, JavaScript |
 | 8/13 (금) |                             압축                             | Python, JavaScript |
+| 8/17 (화) |                         파일명 정렬                          | Python, JavaScript |
+| 8/18 (수) |                         다음 큰 숫자                         | Python, JavaScript |
 
