@@ -92,4 +92,5 @@
 | 8/13 (금) |                             압축                             | Python, JavaScript |
 | 8/17 (화) |                         파일명 정렬                          | Python, JavaScript |
 | 8/18 (수) |                         다음 큰 숫자                         | Python, JavaScript |
+| 8/19 (목) |                       N개의 최소공배수                       | Python, JavaScript |
 
