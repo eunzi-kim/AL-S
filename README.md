@@ -94,4 +94,5 @@
 | 8/18 (수) |                         다음 큰 숫자                         | Python, JavaScript |
 | 8/19 (목) |                       N개의 최소공배수                       | Python, JavaScript |
 | 8/20 (금) |                   JadenCase 문자열 만들기                    | Python, JavaScript |
+| 8/23 (월) |                          n진수 게임                          | Python, JavaScript |
 
