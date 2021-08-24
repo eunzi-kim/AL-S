@@ -95,4 +95,5 @@
 | 8/19 (목) |                       N개의 최소공배수                       | Python, JavaScript |
 | 8/20 (금) |                   JadenCase 문자열 만들기                    | Python, JavaScript |
 | 8/23 (월) |                          n진수 게임                          | Python, JavaScript |
+| 8/24 (화) |                    땅따먹기, 피보나치 수                     | Python, JavaScript |
 
