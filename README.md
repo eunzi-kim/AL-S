@@ -7,6 +7,7 @@
   https://programmers.co.kr/learn/challenges?tab=all_challenges
 
   - 2021.06.23 (수) : 프로그래머스 Level1 완료 ✔
+  - 2021.08.25 (수) : 프로그래머스 Level2 완료 ✔ (👉 1문제 보류)
 
 
 
@@ -96,4 +97,5 @@
 | 8/20 (금) |                   JadenCase 문자열 만들기                    | Python, JavaScript |
 | 8/23 (월) |                          n진수 게임                          | Python, JavaScript |
 | 8/24 (화) |                    땅따먹기, 피보나치 수                     | Python, JavaScript |
+| 8/25 (수) |           숫자의 표현, 최솟값 만들기, 행렬의 곱셈            | Python, JavaScript |
 
