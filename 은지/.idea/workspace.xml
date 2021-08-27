@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08621b95-4d8b-47af-8a89-c66f5c6895dd" name="Default Changelist" comment="" />
+    <list default="true" id="08621b95-4d8b-47af-8a89-c66f5c6895dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/은지.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/은지.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +91,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="98602217">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="306" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="306" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/백준/11725_트리의 부모 찾기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,14 +172,15 @@
         <option value="$PROJECT_DIR$/자연수 뒤집어 배열로 만들기.py" />
         <option value="$PROJECT_DIR$/정수 내림차순으로 배치하기.py" />
         <option value="$PROJECT_DIR$/정수 제곱근 판별.py" />
+        <option value="$PROJECT_DIR$/백준/11725_트리의 부모 찾기.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="626" />
-    <option name="y" value="149" />
-    <option name="width" value="952" />
-    <option name="height" value="722" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="817" />
+    <option name="y" value="-13" />
+    <option name="width" value="953" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -156,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,6 +201,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.약수의 합">
+  <component name="RunManager" selected="Python.11725_트리의 부모 찾기">
     <configuration name="자연수 뒤집어 배열로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="은지" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -418,16 +452,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="11725_트리의 부모 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="은지" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11725_트리의 부모 찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.약수의 합" />
       <item itemvalue="Python.자연수 뒤집어 배열로 만들기" />
       <item itemvalue="Python.정수 내림차순으로 배치하기" />
+      <item itemvalue="Python.11725_트리의 부모 찾기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11725_트리의 부모 찾기" />
+        <item itemvalue="Python.약수의 합" />
         <item itemvalue="Python.정수 내림차순으로 배치하기" />
         <item itemvalue="Python.자연수 뒤집어 배열로 만들기" />
-        <item itemvalue="Python.약수의 합" />
       </list>
     </recent_temporary>
   </component>
@@ -445,14 +502,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="626" y="149" width="952" height="722" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.19146608" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.091209516" />
       <window_info id="Structure" order="1" sideWeight="0.5048544" side_tool="true" weight="0.11532738" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29812607" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.296875" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,241 +528,44 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/K번째수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/로또의 최고 순위와 최저 순위.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="9" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/음양 더하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/폰켓몬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/소수 만들기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/신규 아이디 추천.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="14" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/키패드 누르기.py">
+    <entry file="file://$PROJECT_DIR$/K번째수.py" />
+    <entry file="file://$PROJECT_DIR$/로또의 최고 순위와 최저 순위.py" />
+    <entry file="file://$PROJECT_DIR$/음양 더하기.py" />
+    <entry file="file://$PROJECT_DIR$/폰켓몬.py" />
+    <entry file="file://$PROJECT_DIR$/소수 만들기.py" />
+    <entry file="file://$PROJECT_DIR$/신규 아이디 추천.py" />
+    <entry file="file://$PROJECT_DIR$/키패드 누르기.py" />
+    <entry file="file://$PROJECT_DIR$/실패율.py" />
+    <entry file="file://$PROJECT_DIR$/3진법 뒤집기.py" />
+    <entry file="file://$PROJECT_DIR$/예산.py" />
+    <entry file="file://$PROJECT_DIR$/약수의 개수와 덧셈.py" />
+    <entry file="file://$PROJECT_DIR$/두 개 뽑아서 더하기.py" />
+    <entry file="file://$PROJECT_DIR$/비밀지도.py" />
+    <entry file="file://$PROJECT_DIR$/2016년.py" />
+    <entry file="file://$PROJECT_DIR$/가운데 글자 가져오기.py" />
+    <entry file="file://$PROJECT_DIR$/다트 게임.py" />
+    <entry file="file://$PROJECT_DIR$/같은 숫자는 싫어.py" />
+    <entry file="file://$PROJECT_DIR$/나누어 떨어지는 숫자 배열.py" />
+    <entry file="file://$PROJECT_DIR$/두 정수 사이의 합.py" />
+    <entry file="file://$PROJECT_DIR$/문자열 내 마음대로 정렬하기.py" />
+    <entry file="file://$PROJECT_DIR$/문자열 내 p와 y의 개수.py" />
+    <entry file="file://$PROJECT_DIR$/문자열 내림차순으로 배치하기.py" />
+    <entry file="file://$PROJECT_DIR$/문자열 다루기 기본.py" />
+    <entry file="file://$PROJECT_DIR$/서울에서 김서방 찾기.py" />
+    <entry file="file://$PROJECT_DIR$/소수 찾기.py" />
+    <entry file="file://$PROJECT_DIR$/수박수박수박수박수박수.py" />
+    <entry file="file://$PROJECT_DIR$/문자열을 정수로 바꾸기.py" />
+    <entry file="file://$PROJECT_DIR$/시저 암호.py" />
+    <entry file="file://$PROJECT_DIR$/약수의 합.py" />
+    <entry file="file://$PROJECT_DIR$/이상한 문자 만들기.py" />
+    <entry file="file://$PROJECT_DIR$/자릿수 더하기.py" />
+    <entry file="file://$PROJECT_DIR$/자연수 뒤집어 배열로 만들기.py" />
+    <entry file="file://$PROJECT_DIR$/정수 내림차순으로 배치하기.py" />
+    <entry file="file://$PROJECT_DIR$/정수 제곱근 판별.py" />
+    <entry file="file://$PROJECT_DIR$/백준/11725_트리의 부모 찾기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/실패율.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3진법 뒤집기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/예산.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/약수의 개수와 덧셈.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/두 개 뽑아서 더하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/비밀지도.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016년.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/가운데 글자 가져오기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다트 게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/같은 숫자는 싫어.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/나누어 떨어지는 숫자 배열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/두 정수 사이의 합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/문자열 내 마음대로 정렬하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/문자열 내 p와 y의 개수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/문자열 내림차순으로 배치하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/문자열 다루기 기본.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/서울에서 김서방 찾기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/소수 찾기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/수박수박수박수박수박수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/문자열을 정수로 바꾸기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/시저 암호.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/약수의 합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/이상한 문자 만들기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/자릿수 더하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/자연수 뒤집어 배열로 만들기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/정수 내림차순으로 배치하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/정수 제곱근 판별.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
