@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08621b95-4d8b-47af-8a89-c66f5c6895dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,11 +92,11 @@
     <session id="98602217">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -112,28 +111,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="js" value="1" />
+          <entry key="py" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Python" value="32" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/백준/1717_집합의 표현.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="9" column="20" lean-forward="true" selection-end-line="31" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -200,10 +191,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="545" />
-    <option name="y" value="36" />
-    <option name="width" value="1344" />
-    <option name="height" value="918" />
+    <option name="x" value="237" />
+    <option name="y" value="11" />
+    <option name="width" value="1345" />
+    <option name="height" value="919" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -235,6 +226,11 @@
             <path>
               <item name="은지" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="은지" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="LV2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="은지" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -412,6 +408,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.서울에서 김서방 찾기" />
       <item itemvalue="Python.21608_상어 초등학교" />
       <item itemvalue="Python.2606_바이러스" />
       <item itemvalue="Python.22864_피로도" />
@@ -442,10 +439,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="436" y="29" width="1075" height="734" extended-state="0" />
-    <editor active="true" />
+    <frame x="190" y="9" width="1076" height="735" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.16763006" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.27911454" />
       <window_info id="Structure" order="1" sideWeight="0.5048544" side_tool="true" weight="0.11532738" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -468,16 +464,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/K번째수.py" />
-    <entry file="file://$PROJECT_DIR$/로또의 최고 순위와 최저 순위.py" />
-    <entry file="file://$PROJECT_DIR$/음양 더하기.py" />
-    <entry file="file://$PROJECT_DIR$/폰켓몬.py" />
-    <entry file="file://$PROJECT_DIR$/소수 만들기.py" />
-    <entry file="file://$PROJECT_DIR$/신규 아이디 추천.py" />
-    <entry file="file://$PROJECT_DIR$/키패드 누르기.py" />
-    <entry file="file://$PROJECT_DIR$/실패율.py" />
-    <entry file="file://$PROJECT_DIR$/3진법 뒤집기.py" />
-    <entry file="file://$PROJECT_DIR$/예산.py" />
     <entry file="file://$PROJECT_DIR$/약수의 개수와 덧셈.py" />
     <entry file="file://$PROJECT_DIR$/두 개 뽑아서 더하기.py" />
     <entry file="file://$PROJECT_DIR$/비밀지도.py" />
@@ -578,6 +564,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/백준/1717.py" />
+    <entry file="file://$PROJECT_DIR$/백준/1717_집합의 표현.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/게임 맵 최단거리.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/게임 맵 최단거리.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/n진수 게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/땅따먹기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/멀쩡한 사각형.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/스킬트리.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/배달.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/조이스틱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/쿼드압축 후 개수 세기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/프렌즈 4블록.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LV2/행렬 테두리 회전하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/백준/22864_피로도.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -585,18 +628,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준/1717.py">
+    <entry file="file://$PROJECT_DIR$/백준/18352_특정 거리의 도시 찾기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/백준/1717_집합의 표현.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="9" column="20" lean-forward="true" selection-end-line="31" selection-end-column="23" />
-        </state>
+        <state relative-caret-position="-75" />
       </provider>
     </entry>
   </component>
