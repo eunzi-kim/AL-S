@@ -122,9 +122,29 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1679988341">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/백준/1260_DFS와 BFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -191,10 +211,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="237" />
-    <option name="y" value="11" />
+    <option name="x" value="11" />
+    <option name="y" value="21" />
     <option name="width" value="1345" />
-    <option name="height" value="919" />
+    <option name="height" value="933" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -204,22 +224,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="은지" type="b2602c69:ProjectViewProjectNode" />
-              <item name="은지" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="은지" type="b2602c69:ProjectViewProjectNode" />
-              <item name="은지" type="462c0819:PsiDirectoryNode" />
-              <item name="백준" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -236,6 +240,22 @@
               <item name="은지" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="백준" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="은지" type="b2602c69:ProjectViewProjectNode" />
+              <item name="은지" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="은지" type="b2602c69:ProjectViewProjectNode" />
+              <item name="은지" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -439,7 +459,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="190" y="9" width="1076" height="735" extended-state="0" />
+    <frame x="9" y="17" width="1076" height="746" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.27911454" />
       <window_info id="Structure" order="1" sideWeight="0.5048544" side_tool="true" weight="0.11532738" />
@@ -464,7 +485,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/약수의 개수와 덧셈.py" />
     <entry file="file://$PROJECT_DIR$/두 개 뽑아서 더하기.py" />
     <entry file="file://$PROJECT_DIR$/비밀지도.py" />
     <entry file="file://$PROJECT_DIR$/2016년.py" />
@@ -631,6 +651,13 @@
     <entry file="file://$PROJECT_DIR$/백준/18352_특정 거리의 도시 찾기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준/1260_DFS와 BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
       </provider>
     </entry>
   </component>
